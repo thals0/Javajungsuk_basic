@@ -20,7 +20,8 @@ class Q2{
         System.out.println('1' + 2); // 51
         System.out.println('1' + '2'); // 99
         System.out.println('J' +"ava"); // Java
-//        System.out.println(true + null);
+//        System.out.println(true + null); // Err
+        System.out.println("" + true + null); // truenull
     }
 }
 

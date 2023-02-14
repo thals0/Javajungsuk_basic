@@ -81,6 +81,9 @@ class Exercise3_6{
 
         System.out.println("Fahrenheit:"+fahrenheit);
         System.out.println("Celcius:"+ (int)(v * 100) / 100.0); // 37.78
+
+//        정답 코드 (아래)
+//        float celcius = (int)((5/9f * (fahrenheit-32)) * 100 + 0.5)/ 100f;
     }
 }
 //예상 결과 : Fahrenheit:100, Celcius:37.78
