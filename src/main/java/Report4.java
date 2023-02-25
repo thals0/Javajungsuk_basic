@@ -3,7 +3,7 @@ class Exercise5_1{
     public static void main(String[] args) {
         //5-1. 다음은 배열을 선언하거나 초기화한 것이다. 잘못된 것을 고르고 그 이유를 설명하세요.
 //        int[] arr[];
-//        int[] arr = {1,2,3,}; // print해보깅
+//        int[] arr = {1,2,3,}; // ✨print해보깅
 //        int[] arr = new int[5];
 //        int[] arr = new int[5]{1,2,3,4,5}; // Err
 //        int arr[5]; // Err
