@@ -1,4 +1,4 @@
-package transport;
+package practice.transport;
 
 public class Taxi extends Public{
     String destination;

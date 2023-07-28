@@ -1,4 +1,4 @@
-package transport;
+package practice.transport;
 
 public class TaxiTest {
     public static void main(String[] args) {

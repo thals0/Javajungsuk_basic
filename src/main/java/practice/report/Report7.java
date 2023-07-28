@@ -1,3 +1,5 @@
+package practice.report;
+
 class Exercise6_17 {
     /*shuffle 메서드를 작성하세요. */
     static int[] shuffle(int[] arr){

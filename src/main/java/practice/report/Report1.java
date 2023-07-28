@@ -1,3 +1,5 @@
+package practice.report;
+
 class Q1{
     public static void main(String[] args) {
         // 2-4. 다음 중 변수를 잘못 초기화 한 것은?

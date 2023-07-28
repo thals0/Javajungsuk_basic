@@ -1,4 +1,4 @@
-package solid.srp;
+package practice.srp;
 
 public class Calculator {
 

@@ -1,5 +1,5 @@
-import javax.swing.*;
-import javax.xml.stream.StreamFilter;
+package practice.report;
+
 import java.util.Date;
 
 class Variable1_1 {

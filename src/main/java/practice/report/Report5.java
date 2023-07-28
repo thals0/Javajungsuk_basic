@@ -1,4 +1,4 @@
-//6-1. 다음과 같은 멤버 변수를 갖는 Student 클래스를 정의하세요.
+package practice.report;//6-1. 다음과 같은 멤버 변수를 갖는 Student 클래스를 정의하세요.
 //타입 : String, 변수명 : name, 설명 : 학생 이름
 //타입 : int, 변수명 : ban, 설명 : 반
 //타입 : int, 변수명 : no, 설명 : 번호

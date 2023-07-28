@@ -1,4 +1,4 @@
-package transport;
+package practice.transport;
 
 public class Bus extends Public{
     private final int fare = 1000;

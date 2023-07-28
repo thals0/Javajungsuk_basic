@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package practice.report;
 
 class Exercise4_1 {
     public static void main(String[] args) {

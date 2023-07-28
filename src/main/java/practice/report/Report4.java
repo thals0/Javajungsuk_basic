@@ -1,3 +1,5 @@
+package practice.report;
+
 import java.util.Scanner;
 class Exercise5_1{
     public static void main(String[] args) {

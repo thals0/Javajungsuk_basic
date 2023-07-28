@@ -1,4 +1,4 @@
-package solid.srp;
+package practice.srp;
 
 public class Client {
     public static void main(String[] args) {
